@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/_OQD039ks1oAAAAC/space.gif...)](https://github.com/faanid)
+[![MasterHead](https://akm-img-a-in.tosshub.com/indiatoday/2023-01/webb_early_peas_banner.gif?VersionId=qB0rth2aTM18RPKCDaH1bB.jZ2mUMdJ1...)](https://github.com/faanid)
 <h1 align="center">Hi 🌚, I'm Faanid 🐱‍👤</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
