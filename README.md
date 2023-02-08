@@ -20,7 +20,7 @@ fields_of_interests:
     "Web Development",
     "Game Development",
     "Machine Learning",
-    "Microproccecor & CPU Programming",
+    "Microprocessor & CPU Programming",
     "Robotics",
   ]
 technical_background:
