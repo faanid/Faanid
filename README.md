@@ -12,7 +12,7 @@ current_job: Junior Front-End Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor's's in Electrical Engineering",
+    "Bachelor's in Electrical Engineering",
   ]
 
 fields_of_interests:
