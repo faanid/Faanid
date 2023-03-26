@@ -38,7 +38,7 @@ hobbies: ["Reading Books", "Gaming", "Coding"]
 <h3 align="center">Let's Connect</h3>
 <p align="center">
 <a href="https://linkedin.com/in/fateme-kharazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fateme-kharazmi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15953197/fanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15953197/fanid" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15953197/fanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15953197/fanid" height="30" width="40" /></a>
 </p>
 
 
