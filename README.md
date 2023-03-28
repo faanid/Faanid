@@ -29,7 +29,7 @@ technical_background:
     "Intern - Unity Game Developer",
   ]
   
-currently_learning: ["Reactjs, Python"]
+currently_learning: ["Nextjs,Nodejs, Python"]
 2023 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Reading Books", "Gaming", "Coding"]
 ```
