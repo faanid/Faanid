@@ -25,7 +25,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Programmming Arduio Board",
+    "Programmming Arduino Board",
     "Intern - Unity Game Developer",
   ]
   
