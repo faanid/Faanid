@@ -39,6 +39,7 @@ hobbies: ["Reading Books", "Gaming", "Coding"]
 <h3 align="center">Let's Connect</h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/15953197/fanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15953197/fanid" height="30" width="40" /></a>
+  <a href="https://discord.com/faanid#8583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/faanid#8583" height="37" width="47" /></a>
 </p>
 
 
