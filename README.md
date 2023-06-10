@@ -27,12 +27,11 @@ fields_of_interests:
 technical_background:
   [
     "Programmming Arduino Board",
-    "Intern - Unity Game Developer",
+    "Junior Unity Game Developer",
   ]
   
-currently_learning: ["Nextjs,Nodejs, Python"]
+currently_learning: ["Nextjs, Nodejs, Python"]
 2023 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Reading Books", "Gaming", "Coding"]
 ```
 
 
@@ -52,7 +51,7 @@ hobbies: ["Reading Books", "Gaming", "Coding"]
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.nodejs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-</p>
+
 
 <!-- ![Snake animation](https://github.com/faanid/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
