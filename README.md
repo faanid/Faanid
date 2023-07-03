@@ -52,10 +52,3 @@ technical_background:
 <a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=faanid&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 
 </p>
-
-
-<!-- ![Snake animation](https://github.com/faanid/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
-
-<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> -->
