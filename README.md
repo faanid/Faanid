@@ -6,9 +6,6 @@
 
 
 ```yaml
-name: Faanid
-located_in: Tehran, Iran
-current_job: Junior Front-End Developer
 education:
   [
     "Self-Taught Developer and Designer",
@@ -19,29 +16,20 @@ fields_of_interests:
   [
     "Web Development",
     "Game Development",
-    "Machine Learning",
-    "Microprocessor & CPU Programming",
-    "Robotics",
   ]
 technical_background:
   [
     "Programming Arduino Board",
+    "Simple electrical circuit design",
     "Junior Unity Game Developer",
   ]
-  
-currently_learning: ["Nextjs, Nodejs, Python"]
-2023 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
 ```
-
-
 <h3 align="center">Let's Connect</h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/15953197/fanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15953197/fanid" height="30" width="40" /></a>
   <a href="https://discord.com/faanid#8583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/faanid#8583" height="37" width="47" /></a>
     <a href="https://codepen.io/faanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/faanid" height="37" width="47" /></a>
 </p>
-
-
 
 
 <h3 align="center">🚀Some Tools I Have Used and Learned</h3>
