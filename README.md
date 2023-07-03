@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&fontSize=20" />
-<h1 align="center"> Hi,I'm Faanid </h1>
 <h3 align="center">A passionate frontend developer</h3>
 <h4 align="center">(MERN Stack)</h4>
 
