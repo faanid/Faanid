@@ -28,7 +28,9 @@ technical_background:
 <p align="center">
 <a href="https://stackoverflow.com/users/15953197/fanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15953197/fanid" height="30" width="40" /></a>
   <a href="https://discord.com/faanid#8583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/faanid#8583" height="37" width="47" /></a>
+  <a href="https://www.twitch.tv/codecenterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="https://www.twitch.tv/codecenterr" height="37" width="47" /></a>
     <a href="https://codepen.io/faanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/faanid" height="37" width="47" /></a>
+  
 </p>
 
 
