@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&fontSize=20" />
-<h3 align="center">A passionate frontend developer</h3>
-<h4 align="center">(MERN Stack)</h4>
-
-<p align="center" background="none"> <img src="https://komarev.com/ghpvc/?username=faanid&label=Profile%20views&color=0e75b6&style=flat" alt="faanid" /> </p>
-
+<h3 align="center">A passionate Developer ☄</h3>
+<!-- <h4 align="center">(MERN Stack)</h4> -->
+<p align="center" background="none"> <img src="https://komarev.com/ghpvc/?username=faanid&label=Profile%20views&color=0e75b6&style=flat" alt="faanid" /> </p> 
 
 ```yaml
 education:
@@ -24,16 +22,20 @@ technical_background:
     "Junior Unity Game Developer",
   ]
 ```
-<h3 align="center">Let's Connect</h3>
+
+<h3 align="center">Let's Connect🛸</h3>
 <p align="center">
+    <a href="mailto:devfaanid@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Email" height="37" width="47" />
+</a>
 <a href="https://stackoverflow.com/users/15953197/fanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15953197/fanid" height="30" width="40" /></a>
-  <a href="https://discord.com/faanid#8583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/faanid#8583" height="37" width="47" /></a>
   <a href="https://www.twitch.tv/codecenterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="https://www.twitch.tv/codecenterr" height="37" width="47" /></a>
     <a href="https://codepen.io/faanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/faanid" height="37" width="47" /></a>
-  
+     <a href="https://medium.com/@devfaanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@devfaanid" height="37" width="47" /></a>
+
 </p>
 
-
+<br/>
 <h3 align="center">🚀Some Tools I Have Used and Learned</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
