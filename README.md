@@ -3,6 +3,7 @@
 <!-- <h4 align="center">(MERN Stack)</h4> -->
 <p align="center" background="none"> <img src="https://komarev.com/ghpvc/?username=faanid&label=Profile%20views&color=0e75b6&style=flat" alt="faanid" /> </p> 
 
+
 ```yaml
 education:
   [
@@ -32,6 +33,9 @@ technical_background:
   <a href="https://www.twitch.tv/codecenterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="https://www.twitch.tv/codecenterr" height="37" width="47" /></a>
     <a href="https://codepen.io/faanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/faanid" height="37" width="47" /></a>
      <a href="https://medium.com/@devfaanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@devfaanid" height="37" width="47" /></a>
+     <a href="https://dev.to/faanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/faanid" height="37" width="47" " /></a>
+     
+     
 
 </p>
 
