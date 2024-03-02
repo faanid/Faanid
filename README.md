@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&fontSize=20" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&fontSize=20" />-->
 <h3 align="center">A passionate Developer ☄</h3>
 <!-- <h4 align="center">(MERN Stack)</h4> -->
 <p align="center" background="none"> <img src="https://komarev.com/ghpvc/?username=faanid&label=Profile%20views&color=0e75b6&style=flat" alt="faanid" /> </p> 
