@@ -1,64 +1,196 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&fontSize=20" />-->
-<!--<h3 align="center">A passionate Developer ☄</h3> -->
-<!-- <h4 align="center">(MERN Stack)</h4> -->
- 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0B3D2E&height=160&section=header&fontSize=20&fontColor=36B37E"
+  width="100%"
+  alt="Header"
+/>
 
-<!--```yaml
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Electrical Engineering",
-  ]
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Game Development",
-  ]
-technical_background:
-  [
-    "Programming Arduino Board",
-    "Simple electrical circuit design",
-    "Junior Unity Game Developer",
-  ]
-```-->
-<!--
-<h3 align="center">Let's Connect🛸</h3>
-<p align="center">
-    <a href="mailto:devfaanid@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Email" height="37" width="47" />
-</a>
-<a href="https://stackoverflow.com/users/15953197/fanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15953197/fanid" height="30" width="40" /></a>
-  <a href="https://www.twitch.tv/codecenterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="https://www.twitch.tv/codecenterr" height="37" width="47" /></a>
-    <a href="https://codepen.io/faanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/faanid" height="37" width="47" /></a>
-     <a href="https://medium.com/@devfaanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@devfaanid" height="37" width="47" /></a>
-     <a href="https://dev.to/faanid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/faanid" height="37" width="47" " /></a>
-     
-     -->
-
-</p>
-
-<br/>
-<!--<h3 align="center">🚀Some Tools I Have Used and Learned</h3>    -->
-
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.geeksforgeeks.org/embedded-c/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" alt="embeddedc" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.reactjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br/>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" alt="unity" width="90" height=90"/>
-
-
+<h1 align="center">
+ Just call me <p style="color:#36B37E;">Fateme 👩🏼‍💻</> 
+</h1>
 
 <p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=faanid&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+  Frontend Developer · React · Next.js · TypeScript
 </p>
 
 <p align="center">
-
-<a href="https://github.com/faanid?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=faanid&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=faanid&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-
+  Building web applications, exploring backend development,
+  and continuously improving problem-solving skills.
 </p>
-<p align="center" background="none"> <img src="https://komarev.com/ghpvc/?username=faanid&label=Profile%20views&color=0e75b6&style=flat" alt="faanid" /> </p>  
+
+<p align="center">
+  <a href="https://fateme-kharazmii.netlify.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-0B3D2E?style=for-the-badge&logo=googlechrome&logoColor=36B37E"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/fateme-kharazmi/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-126B4F?style=for-the-badge&logo=linkedin&logoColor=36B37E"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:devfaanid@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-1B8A5A?style=for-the-badge&logo=gmail&logoColor=36B37E"
+      alt="Email"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <code>focus: Full-Stack Web Development · Problem Solving · Continuous Learning</code>
+</p>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=126B4F&height=2&width=90%"
+    alt="divider"
+  />
+</div>
+
+<br />
+
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" alt="Sass" />
+</p>
+
+<h3 align="center">Backend & Databases</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+</p>
+
+<h3 align="center">Languages & Tools</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma" />
+</p>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0B3D2E&height=2&width=90%"
+    alt="divider"
+  />
+</div>
+
+<br />
+
+<h2 align="center">Let's Connect 🛸</h2>
+
+<p align="center">
+  <a href="mailto:devfaanid@gmail.com" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/gmail/36B37E"
+      alt="Email"
+      width="38"
+      height="38"
+    />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://stackoverflow.com/users/15953197/fanid" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/stackoverflow/1B8A5A"
+      alt="Stack Overflow"
+      width="38"
+      height="38"
+    />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/leetcode/126B4F"
+      alt="LeetCode"
+      width="38"
+      height="38"
+    />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://medium.com/@devfaanid" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/medium/0B3D2E"
+      alt="Medium"
+      width="38"
+      height="38"
+    />
+  </a>
+</p>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=126B4F&height=2&width=90%"
+    alt="divider"
+  />
+</div>
+
+<br />
+
+<p align="center">
+  <a href="https://wakatime.com/@Goblin8888">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=faanid&theme=github-compact&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%"
+      alt="activity graph"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/faanid?tab=repositories">
+    <img
+      src="https://github-readme-stats-one-bice.vercel.app/api?username=faanid&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+      width="48%"
+      alt="GitHub stats"
+    />
+  </a>
+
+  <a href="https://github.com/PrinceGoblinTech?tab=stars">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=faanid&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      width="48%"
+      alt="GitHub streak"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=faanid&label=Profile%20views&color=0B3D2E&style=flat"
+    alt="Profile views"
+  />
+</p>
